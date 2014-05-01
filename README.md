@@ -1,9 +1,8 @@
 eBurhan VT Class
 --------------------------------
 
-Sınıf adı : eburhan VT Class
+Sınıf adı : eBurhan VT Class
 <br />Versiyonu : 1.5
-
 _______________________________
 
 Görevi : mySQL veritabanı yönetimini kolaylaştırmak
@@ -13,5 +12,6 @@ Görevi : mySQL veritabanı yönetimini kolaylaştırmak
 _______________________________
 
 Programcı : Erhan BURHAN
-<br />E-posta : eburhan {at} gmail {dot} com
-<br />Web adresi : http://www.eburhan.com
+<br /> E-posta : eburhan {at} gmail {dot} com
+<br /> Web adresi : http://www.eburhan.com
+
