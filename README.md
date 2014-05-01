@@ -1,19 +1,17 @@
-eburhan VT Class
-==============
+eBurhan VT Class
+--------------------------------
 
 Sınıf adı : eburhan VT Class
+<br />Versiyonu : 1.5
 
-Versiyonu : 1.5
+_______________________________
 
 Görevi : mySQL veritabanı yönetimini kolaylaştırmak
+<br />Gereksinimler : mysql(i) eklentisi, php 5 ve yukarısı
+<br />Son güncelleme : 23 Ocak 2010
 
-Gereksinimler : mysql(i) eklentisi, php 5 ve yukarısı
-
-Son güncelleme : 23 Ocak 2010
-
+_______________________________
 
 Programcı : Erhan BURHAN
-
-E-posta : eburhan {at} gmail {dot} com
-
-Web adresi : http://www.eburhan.com
+<br />E-posta : eburhan {at} gmail {dot} com
+<br />Web adresi : http://www.eburhan.com
