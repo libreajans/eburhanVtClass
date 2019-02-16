@@ -15,3 +15,5 @@ Programcı : Erhan BURHAN
 <br /> E-posta : eburhan {at} gmail {dot} com
 <br /> Web adresi : http://www.eburhan.com
 
+# License
+You may copy and reproduce the project under either GPL V2 or above license.
